@@ -6,9 +6,10 @@ title: "USI FYI"
 
 # USI helpdesk quick links and help
 
-## Request a password reset 
+## Request a password reset/account activation 
 
 Password resets a USI must be done over the phone due to USI security policy. When you call in you will be asked to verify a couple of pieces of information confirm that you are who you say you are. Having your student ID number (usually starts with 000) or your username, which is the start of your USI email. The username for your myUSI account is always your USI email, not a gmail/yahoo/other email provider. 
+If you are trying to activate/sign in for the first time. 
 
 ## Multifactor reset/new phone
 
